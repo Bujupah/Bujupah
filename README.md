@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some Voodoo plugins on Grafana
+- 🔭 I’m currently working on flutter and grafana plugins.
 - 💬 Ask me about `Mobile dev: Flutter`, `Web dev: CRM`, `Analysis: Grafana` 
-- 📫 How to reach me: khalil.mejdi97@gmail.com
+- 📫 How to reach me:
+[![whatsapp](https://img.shields.io/static/v1?logo=whatsapp&label=Whatsapp&message=me&color=%3CCOLOR%3E)](https://wa.me/21627782201)
+[![email](https://img.shields.io/static/v1?logo=gmail&label=Gmail&message=Me&color=%3CCOLOR%3E)](mailto:khalil.mejdi97@gmail.com)
 <!--
 **Bujupah/Bujupah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
