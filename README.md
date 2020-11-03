@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on flutter and grafana plugins.
-- 💬 Ask me about `Mobile dev: Flutter`, `Web dev: CRM`, `Analysis: Grafana` 
+- 🌱 I’m currently learning electron.
+- 💬 Ask me about whatever you want 😁. 
 - 📫 How to reach me:
 [![whatsapp](https://img.shields.io/static/v1?logo=whatsapp&label=Whatsapp&message=me&color=%3CCOLOR%3E)](https://wa.me/21627782201)
 [![email](https://img.shields.io/static/v1?logo=gmail&label=Gmail&message=Me&color=%3CCOLOR%3E)](mailto:khalil.mejdi97@gmail.com)
