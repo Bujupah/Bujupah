@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on flutter and grafana plugins.
-- 🌱 I’m currently learning electron.
+- 🌱 I’m learning golang and react.
 - 💬 Ask me about whatever you want 😁. 
 - 📫 How to reach me:
 [![whatsapp](https://img.shields.io/static/v1?logo=whatsapp&label=Whatsapp&message=me&color=%3CCOLOR%3E)](https://wa.me/21627782201)
 [![email](https://img.shields.io/static/v1?logo=gmail&label=Gmail&message=Me&color=%3CCOLOR%3E)](mailto:khalil.mejdi97@gmail.com)
+- ⚡ Fact: bujupah is spelled "Bouge ou pas" in french which is "Move or not", First use was on League of legends as "Bujupi" and later on my friends started calling me Bujupah as a nickname which I still don't know why but I like it :v 
 <!--
 **Bujupah/Bujupah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
