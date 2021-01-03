@@ -26,12 +26,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+**Stats:** 
 <a href="https://github.com/bujupah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujupah&theme=dark" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bujupah&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/bujupah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bujupah&show_icons=true&theme=dark&line_height=27" alt="Bujupah's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bujupah&show_icons=true&theme=dark&line_height=22" alt="Bujupah's github stats"/>
 </a>
 
 ### Show some ❤️ and hit some stars !
