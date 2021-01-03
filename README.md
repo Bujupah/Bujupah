@@ -11,7 +11,7 @@
 - ⚡ Fun Facts:
     * My username was used on League of legends as "Bujupi"<br>
     * My friends started calling me "Bujupah" as a nickname which I still don't how it became like that but I like it and now it is here.<br>
-    * Once a professor said in french "Bouge ou pas" which you can spelled "Bujupah", EVERY one in that session looked at me, the professor was confused.<br>
+    * Once a professor said in french "Bouge ou pas" which you can spell it "Bujupah" in English, EVERY one in that session looked at me with a smile, the professor was confused.<br>
 
 
 **Languages and Tools:**  
