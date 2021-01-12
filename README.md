@@ -29,9 +29,9 @@
 **Stats:** 
 
 <a href="https://github.com/bujupah">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bujupah&layout=compact&theme=dark" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bujupah&layout=compact&theme=light" />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bujupah&show_icons=true&theme=dark&line_height=22" alt="Bujupah's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bujupah&show_icons=true&theme=light&line_height=22" alt="Bujupah's github stats"/>
 </a>
 
 ### Show some ❤️ and hit some stars !
