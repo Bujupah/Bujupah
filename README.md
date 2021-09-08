@@ -1,13 +1,16 @@
 
-<center>
-    <h1> Heyo, I'm <a>Khalil</a> aka Bujupah! 👋 <img src="https://komarev.com/ghpvc/?username=bujupah&style=flat-square"/></h1>
+<h1 align="center" Heyo, I'm <a>Khalil</a> aka Bujupah! 👋 <img src="https://komarev.com/ghpvc/?username=bujupah&style=flat-square"/>
+</h1>
+
+<p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/289859406110392321" />
-</center>
+</p>
 
 <h3 align="center">Account Stats</h3>
-<center>
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=bujupah&count_private=true&show_icons=true&theme=dark" />
-</center>
+<p align="center">
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=bujupah&count_private=true&show_icons=false&theme=dark" />
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujupah&langs_count=6&layout=compact&theme=dark&hide=css,html&hide_title=true">
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
