@@ -9,4 +9,4 @@
 <a href="https://wa.me/21627782201" target="_blank" rel="nofollow"><img alt="Khalil's Whatsapp" src="https://img.shields.io/badge/Whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://twitter.com/bujupah" target="_blank" rel="nofollow"><img alt="Khalil's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-**_PS: Currently working on some some grafana weird plugins._**
+**_PS: Currently working on some grafana weird plugins._**
